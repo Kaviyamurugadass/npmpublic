@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "dist/index.js",
   "license": "MIT",
+  "private":true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.6.4",
